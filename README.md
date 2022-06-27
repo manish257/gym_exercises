@@ -1,1 +1,1 @@
-# Gym App for Exercises using ReactJS
+# Gym App for Exercises made using ReactJS
